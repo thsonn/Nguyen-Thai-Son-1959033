@@ -1,0 +1,69 @@
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+.banner h5{
+  text-align: left;
+  color: #9faab4;
+  font-size: 70px;
+
+}
+.col-sm {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  box-shadow: 1px 1px 5px grey;
+  background-color: black;
+  margin: 20px;
+}
+.text h1{
+  font-size: 25px;
+  color: #9faab9;
+
+}
+h4{
+  text-align: center;
+  color:#9faab9;
+  font-size: 40px;
+}
+.carousel-control-next-icon {
+  background-color: black;
+}
+.carousel-control-prev-icon{
+  background-color: black;
+}
+.col-sm h1{
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.col-sm p{
+  font-size: 15px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+.p2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  box-shadow: 1px 1px 5px grey;
+
+
+}
+.ft {
+  box-shadow:  1px 1px 5px grey;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+footer{
+  background-color: black;
+}
+form {
+  color: white;
+}
